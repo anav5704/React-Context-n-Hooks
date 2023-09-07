@@ -5,12 +5,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: rgb(29, 29, 29);
-  color: whitesmoke;
 }
 
 /* app styles */
-.App {
+.app {
   max-width: 400px;
   margin: 30px auto;
   text-align: center;

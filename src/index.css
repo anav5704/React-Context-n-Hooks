@@ -27,14 +27,20 @@ nav ul li {
   padding: 20px;
   margin-bottom: 20px;
 }
-.book-list ul{
+ul{
   padding: 0;
   list-style-type: none;
 }
-.book-list li {
+li {
   padding: 10px;
   margin: 10px auto;
   border-radius: 10px;
+  list-style: none;
+  cursor: pointer;
+}
+
+li:hover {
+  opacity: 0.5;
 }
 .btn {
   border: none;
